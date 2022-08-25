@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## LeetCode ([profile](https://leetcode.com/thatAlex))
+[![Alex's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=thatAlex)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **alexandru-cazacu/alexandru-cazacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
