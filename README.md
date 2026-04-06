@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello! 👋
 
 I'm Alex Cazacu, a Software Engineer focused on **performance** and **low-level programming**.. My experience ranges from _front-end_, to _embedded firmwares_, to _game development_, but my real interest is in understanding how systems behave at the hardware level and making them faster.
 
